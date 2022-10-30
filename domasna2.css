@@ -1,0 +1,49 @@
+body {
+
+    background-color:green;
+}
+h1 
+{
+font-size:5em;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color:darkseagreen;
+color:green;
+text-align: center;
+border-radius: .9em;
+margin-block: .25em;
+margin-left:.5em;
+border-style: groove;
+}
+fieldset
+{
+    color:green;
+    background-color: beige;
+    text-align: center;
+    border-radius: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+}
+legend
+{
+    border-radius:0px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#order:hover 
+{
+    background-color:rgb(81, 154, 88);
+    transition: 0.8s;
+}
+#drop:hover
+{
+    background-color:rgb(81, 154, 88);;
+    transition: 0.8s;
+}
+#ime:hover
+{
+    background-color:rgb(81, 154, 88);;
+    transition: 0.8s;
+}
+.field {
+    font-size: xx-large;
+}
